@@ -6,4 +6,4 @@ subtitle: >
 
 ## School
 
-- [HIST& 147](tcc/H147)
+- [HIST& 147](tcc/HIST147)
