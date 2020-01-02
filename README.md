@@ -1,5 +1,7 @@
 ---
 title: Note Index
+subtitle: >
+        This is mainly for school
 ---
 
 ## School
