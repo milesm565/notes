@@ -1,10 +1,10 @@
 [..](..)  
-# North America in 1800  
+# Lecture 1
    > Date: 01-02-20  
    > Instructor: David Work  
 ---     
   
-## Political Climate  
+## North America in 1800
    * The U.S. was a small and poor nation at this time, and surrounded by European powers and some of the land they had was inhabited by Native Americans.  
    * Dominated by **Federalists**.  
       > Federalists favored active government support of the economy, and a strong national government over state, and supported large cities and manufacturing.  
