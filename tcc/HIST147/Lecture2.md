@@ -2,7 +2,7 @@
 # Lecture 2  
 > Date: 01-02-20  
 > Instructor: David Work  
-  
+---
 ## Burr vs. Hamilton  
    * Burr and Jefferson tied in the election  
    * The House of Representatives chose to elect Jefferson  
@@ -17,15 +17,15 @@
       > He was not endicted and he stayed Vice President  
    * After leaving office Burr wanted to create a western empire for himself  
 ## The Burr Conspiracy  
-   * Burr decided to try to detach Louisiana from the Union  
+   * Burr decided to try to detach Louisiana from the Union to create an empire 
    * He joined forces with General James Wilkinson  
-   * > Burr convinced Jefferson to make Wilkinson governor of North Louisiana  
+      > Burr convinced Jefferson to make Wilkinson governor of North Louisiana  
    *  Wilkinson was in the pay of spain  
    * Burr gathered a small army to try to pry land from Louisiana  
    * Wilkinson got cold feet and turned Burr in to Jefferson  
       > Burr was brought to trial for treason, and found not guilty, as he did not levy war  
-   *  This demonstrated the weakness of American nationalism at the time   
-   *  as he would contemplate treason   
+      This demonstrated the weakness of American nationalism at the time   
+      as he would contemplate treason   
 ## The US and Napoleonic Wars  
    * The French vs Everyone Else war would effect America  
    * 1807 the French dominated Europe  
