@@ -97,7 +97,3 @@
     * Group of militant congressmen  
     * would not tolerate more humiliation by Britain  
     * Madison surrendered to their demands and declared war in 1812  
-    * War of 1812 causes:  
-      1. Stop violation of neutral rights on the ocean, freedom of the seas  
-      2. American honor  
-      3. Second war of independence   
