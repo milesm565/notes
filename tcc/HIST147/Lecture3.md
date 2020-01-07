@@ -2,8 +2,8 @@
 # Lecture 3  
 > Date: 01-06-20  
 > Instructor: David Work  
-  
-# Causes of War 1812  
+---  
+## Causes of War 1812  
    * Primary cause to defend freedom of the seas  
    * Second was to stop Indian attacks on western settlers  
    * Third was territorial expansion  
@@ -31,7 +31,7 @@
       > They agreed to how things were before to war  
          So it would be like the war never happened  
    * Important event would occur before they both ratified  
-# The Hartford Convention  
+## The Hartford Convention  
    * New England states did not like the war  
    * Federalists were on the decline  
       > They were elitists, the rich would rule  
@@ -41,7 +41,7 @@
    * They condemmed the war, predicted the British would win  
    * Propose constitutional ammendments giving New England more power in federal government  
    * After the Treaty of Ghent was announced, it discredited the Federalists as they predicted British victory   
-# Creek War  
+## Creek War  
    * War fought alongside war of 1812  
    * The Creeks were one of the powerful tribes in American south  
    * They divided into:  
@@ -67,7 +67,7 @@
       > Jackson won land from both the upper and lower creeks  
          he conquered the South East for the U.S.  
          called Jackson Land  
-# Final British Counterattack  
+## Final British Counterattack  
    * Aimed at New Orleans  
    * They wanted to ally with the creeks, but the creeks had been defeated  
    * Pakihan moved slowly, allowing the Americans to prepare  
@@ -77,7 +77,7 @@
    * The Battle was a slaughter, the British lost a lot of men, Pakihan died as well  
       > Made Jackson a national hero, and saved New Orleans  
          Convinced America winning the war 1812  
-# The Results of the War of 1812  
+## The Results of the War of 1812  
    * It stimulated American nationalism  
    * Destroyed the military capabilites of natives living east of the Mississipi  
       > Tekcumseh was killed during the fighting  
@@ -86,7 +86,7 @@
    * Branded Federalists as disloyal, as the Convention was held at the same time as the Treaty of Ghent  
    * Country now ruled by Republicans  
   
-# Economic Development of the Country  
+## Economic Development of the Country  
    * America in 1800  
       > U.S. was a developing nation  
          Agriculture provideded the livelihood regardless of race or class  
@@ -126,7 +126,7 @@
       * Began a creation of a national economy  
          > Benefited merchant and planters and land owners  
       * For the this to occur it would need the transportation and government action designed to facilliate economic growth  
-# The Transportation Revolution       
+## The Transportation Revolution       
    * As people moved further west they needed a means to get their goods to market  
    * Only to be accomplished if transportation was provided   
    * Efficent transportation increased land values, stimulated trade, and strengthened the economy   
