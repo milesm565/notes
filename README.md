@@ -1,7 +1,5 @@
 # Miles' Notes
-> This is a collection of things that I know,   
-  things that I learn,  
-  and things that I want to remember.  
+> S8 IS SO FUN
 ---
 
 ## School
